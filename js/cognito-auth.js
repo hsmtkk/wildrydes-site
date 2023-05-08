@@ -1,3 +1,5 @@
+import * as AmazonCognitoIdentity from "amazon-cognito-identity-js";
+
 /*global WildRydes _config AmazonCognitoIdentity AWSCognito*/
 
 var WildRydes = window.WildRydes || {};
